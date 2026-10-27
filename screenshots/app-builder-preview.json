@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aurora Flow",
+      "hasCanvas": false,
+      "bodyTextLen": 1586,
+      "bodyTextHash": "5a66db074cd7457203194de7259ce262aafe6abe01a4315f2ec014a17d5d6bd1",
+      "bodyTextPrefix": "Skip to content Aurora Flow Search Explore Following Latest Save",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aurora Flow",
+      "hasCanvas": false,
+      "bodyTextLen": 1586,
+      "bodyTextHash": "a84880ca14273b74cabd5283768b2603e3080b91f5d2d799d581932d215e6951",
+      "bodyTextPrefix": "Skip to content Aurora Flow Search FEATURED Bioluminescent Ocean",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
